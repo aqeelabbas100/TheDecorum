@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <include
+        layout="@layout/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/house"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_recommendation"
+            android:title="Recommendation"
+            android:icon="@drawable/recommendation" />
+    </group>
+    <item
+        android:title="Categories"
+        android:visible="true">
+        <menu>
+        <item
+            android:id="@+id/nav_lamp"
+            android:icon="@drawable/lamp"
+            android:title="Lamp" />
+        <item
+            android:id="@+id/nav_vase"
+            android:icon="@drawable/vase"
+            android:title="Vase" />
+        <item
+            android:id="@+id/nav_table"
+            android:icon="@drawable/table"
+            android:title="Table" />
+        </menu>
+    </item>
+
+</menu>

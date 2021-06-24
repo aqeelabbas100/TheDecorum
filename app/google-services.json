@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "761738657503",
+    "firebase_url": "https://fyp3-276ff-default-rtdb.firebaseio.com",
+    "project_id": "fyp3-276ff",
+    "storage_bucket": "fyp3-276ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761738657503:android:3df23cd31c3db0bdeb336a",
+        "android_client_info": {
+          "package_name": "com.company.thedecorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761738657503-fe4ktpqu1ts6c5e6of2lok5trfoo5kv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGF7QcqS9fx1eH-cS57SyJfgp6nPvOeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761738657503-fe4ktpqu1ts6c5e6of2lok5trfoo5kv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761738657503:android:0e7307c7faf109cdeb336a",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761738657503-fe4ktpqu1ts6c5e6of2lok5trfoo5kv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGF7QcqS9fx1eH-cS57SyJfgp6nPvOeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761738657503-fe4ktpqu1ts6c5e6of2lok5trfoo5kv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

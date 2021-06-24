@@ -1,0 +1,9 @@
+newmtl New Material
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl Underwhite
+Kd 1 1 1
+illum 2
+

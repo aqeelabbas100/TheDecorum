@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199039529405",
+    "project_id": "ecommerce-firebase-app-m-147f0",
+    "storage_bucket": "ecommerce-firebase-app-m-147f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199039529405:android:cd6e9e27769449dee0e2d4",
+        "android_client_info": {
+          "package_name": "com.example.sweven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199039529405-i1poptkud5oos2n1ms5rbkvupv845k15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSWyeWCqXAnR56x9JDcRB0NtSZ2v8aw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199039529405-i1poptkud5oos2n1ms5rbkvupv845k15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

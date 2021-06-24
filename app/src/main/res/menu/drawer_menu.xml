@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/house"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_recommendation"
+            android:title="Recommendation"
+            android:icon="@drawable/recommendation" />
+    </group>
+    <item
+        android:title="Categories"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/nav_lamp"
+                android:icon="@drawable/lamp"
+                android:title="Lamp" />
+            <item
+                android:id="@+id/nav_vase"
+                android:icon="@drawable/vase"
+                android:title="Vase" />
+            <item
+                android:id="@+id/nav_table"
+                android:icon="@drawable/table"
+                android:title="Table" />
+        </menu>
+    </item>
+</menu>
